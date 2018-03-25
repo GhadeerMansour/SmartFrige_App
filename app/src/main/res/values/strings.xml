@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartFridge</string>
+    <string name="get_age">Get Age</string>
+</resources>
